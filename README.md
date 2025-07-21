@@ -48,8 +48,10 @@ Key highlights of the dashboard:
 If you want to collaborate or have any suggestions:
 
 📧 [Email= nilanjandatta10542@gmail.com]  
-🔗 [LinkedIn Profile= www.linkedin.com/in/
+🔗 [LinkedIn Profile=www.linkedin.com/in/
 nilanjan-datta-518332257
+Vanity URL name
+
  ]  
 
 ---
