@@ -47,8 +47,10 @@ Key highlights of the dashboard:
 
 If you want to collaborate or have any suggestions:
 
-📧 [Your Email]  
-🔗 [LinkedIn Profile]  
+📧 [Email= nilanjandatta10542@gmail.com]  
+🔗 [LinkedIn Profile= www.linkedin.com/in/
+nilanjan-datta-518332257
+ ]  
 
 ---
 
