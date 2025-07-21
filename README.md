@@ -28,7 +28,8 @@ Key highlights of the dashboard:
 
 ## 📸 Sample Dashboard Preview
 
-![Blinkit Sales Dashboard](Screenshots/blinkit_dashboard_sample.png)
+![Blinkit Sales Dashboard](<img width="834" height="459" alt="Screenshot (548)" src="https://github.com/user-attachments/assets/8b4cbc93-074c-46ef-bf18-4382ced30782" />
+)
 
 ## 🧠 Insights Derived
 
